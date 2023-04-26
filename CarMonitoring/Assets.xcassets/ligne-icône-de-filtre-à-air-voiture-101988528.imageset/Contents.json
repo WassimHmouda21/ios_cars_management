@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "ligne-icône-de-filtre-à-air-voiture-101988528.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

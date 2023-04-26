@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "la-kia-ev6-elue-car-of-the-year-2022-photo-kia-1646066749.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
